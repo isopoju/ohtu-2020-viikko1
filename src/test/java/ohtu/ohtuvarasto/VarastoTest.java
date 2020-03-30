@@ -115,3 +115,5 @@ public class VarastoTest {
         assertEquals(5.0, varasto2.getSaldo(), vertailuTarkkuus);  
     }
 }
+
+// Tehtavan 1.11 muutos ..
