@@ -117,3 +117,4 @@ public class VarastoTest {
 }
 
 // Tehtavan 1.11 muutos ..
+// Tehtavan 1.12 muutos ..
