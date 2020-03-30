@@ -112,6 +112,6 @@ public class VarastoTest {
         assertEquals(0.0, varasto2.getTilavuus(), vertailuTarkkuus);
         
         varasto2 = new Varasto(10, 5);
-        assertEquals(5.01, varasto2.getSaldo(), vertailuTarkkuus);  
+        assertEquals(5.0, varasto2.getSaldo(), vertailuTarkkuus);  
     }
 }
