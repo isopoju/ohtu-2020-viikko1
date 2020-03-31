@@ -21,9 +21,9 @@ public class Varasto {
         
         if (alkuSaldo >= tilavuus) {
             this.saldo = tilavuus;
-            if (alkuSaldo == 3) {
-                this.saldo = 9999;
-            }
+            // if (alkuSaldo == 3) {
+            //     this.saldo = 9999;
+            // }
         } else {
             this.saldo = Math.max(alkuSaldo, 0.0);
         }
